@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Argha2004
+- 👋 Hi, I’m  Arghadeep Pakhira
 - 👀 I’m interested in learning new languages
-- 🌱 I’m currently learning C
-- 💞️ I’m looking to collaborate on Google , Microsoft
+- 🌱 I’m currently learning C , C++ , Python , UI/UX Design
+- 💞
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
