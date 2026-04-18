@@ -12,8 +12,11 @@ I am Arghadeep Pakhira , and I am a Machine Learning and LLM Enthusiastic.<br>Cu
 ![](https://streak-stats.demolab.com/?user=Argha2004&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Argha2004&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Argha2004&theme=dark&no-frame=false&no-bg=false&margin-w=4)
+
+<div align="center">
+  ![snake gif](https://github.com/Argha2004/Argha2004/blob/output/github-snake-dark.svg)
+</div>
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Argha2004&limit=5&theme=dark&combine_all_yearly_contributions=true)
