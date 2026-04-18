@@ -14,7 +14,7 @@ I am Arghadeep Pakhira , and I am a Machine Learning and LLM Enthusiastic.<br>Cu
 
 
 <div align="center">
-  ![snake gif](https://github.com/Argha2004/Argha2004/blob/output/github-snake-dark.svg)
+  <img src="https://raw.githubusercontent.com/Argha2004/Argha2004/output/github-snake-dark.svg" />
 </div>
 
 
