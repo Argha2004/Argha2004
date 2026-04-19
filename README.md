@@ -2,7 +2,7 @@
 I am Arghadeep Pakhira , and I am a Machine Learning and LLM Enthusiastic.<br>Currently I Working on LLMs , RAG models and Datasets.
 
 
-## 🌐 Socials:
+## 🌐 Contact Me On:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/arghadeeppakhira) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itz_kamado04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/arghadeep-pakhira) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@argharemix2004) 
 
 # 💻 Tech Stack:
